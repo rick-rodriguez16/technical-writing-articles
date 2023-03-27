@@ -9,6 +9,7 @@ The `some()` method is one of the many iterative methods of the Javascript Array
 The syntax for the `some()` method is as follows:
 
 ![Syntax of the Javascript some() method](./images/javascript-img/some-method-syntax.svg)
+
 *Figure 1: Syntax of the Javascript `some()` method*
 
 
@@ -39,3 +40,4 @@ If, however, every element in an array is checked and none of them pass the cond
 ![The some method returning a value of false](./images/javascript-img/some-method-returning-false.svg)
 
 *Figure 3: The `some()` method returning a value of false after all elements have failed the condition of the `callbackFunction`*
+
