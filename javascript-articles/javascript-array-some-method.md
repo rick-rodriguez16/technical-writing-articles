@@ -8,7 +8,7 @@ The `some()` method is one of the many iterative methods of the Javascript Array
 
 The syntax for the `some()` method is as follows:
 
-![Syntax of the Javascript some() method](./images/javascript-img/some-method-syntax.svg)
+![Syntax of the Javascript some method](./images/javascript-img/some-method-syntax.svg)
 
 *Figure 1: Syntax of the Javascript `some()` method*
 
