@@ -4,5 +4,5 @@ The `some()` method in Javascript is used to determine if there exists ==at leas
 
 The syntax for the `some()` method is as follows:
 <picture>
-<source srcset="javascript-articles/images/javascript-img/some_method_syntax.png" alt="javascript some method" />
+<img src="javascript-articles/images/javascript-img/some_method_syntax.png" alt="javascript some method" />
 </picture>
