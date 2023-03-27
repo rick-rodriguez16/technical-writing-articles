@@ -27,8 +27,11 @@ The `some()` method should return true at the first instance an element meets th
 
 ![The some method returning a value of true](./images/javascript-img/some-method-returning-true.svg)
 
-*Figure 2: The some() method returning a value of true the moment an element meets the condition of the callbackFunction*
+*Figure 2: The `some()` method returning a value of true the moment an element meets the condition of the `callbackFunction`*
 
 
 If, however, every element in an array is checked and none of them pass the condition of the `callbackFunction`, the `some()` method will return false.
 
+![The some method returning a value of false](./images/javascript-img/some-method-returning-false.svg)
+
+*Figure 2: The `some()` method returning a value of false after all elements have failed the condition of the `callbackFunction`*
