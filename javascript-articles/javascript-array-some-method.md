@@ -5,13 +5,9 @@ The `some()` method in Javascript is used to determine if there exists at least 
 The syntax for the `some()` method is as follows:
 
 ![Syntax of the Javascript some() method](./images/javascript-img/some-method-syntax.svg)
-<figcaption style="margin-top: 0px;">
+<figcaption>
     Figure 1: Syntax of the Javascript <code>some()</code> method
 </figcaption>
-  
-<p></p>
-  
-<p style="margin-bottom: 300px"></p>
   
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
