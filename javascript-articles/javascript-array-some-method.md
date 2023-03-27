@@ -11,7 +11,7 @@ The syntax for the `some()` method is as follows:
   
 <p></p>
   
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 300px"></p>
   
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
