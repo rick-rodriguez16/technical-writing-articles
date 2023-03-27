@@ -12,10 +12,8 @@ The syntax for the `some()` method is as follows:
 | `.some()`   | The method used to apply the callback function to the `myArray` array. |
 | `callbackFunction` | The function that is tested on each element of `myArray`. It should return `true` if an element passes the `callbackFunction` test, `false` otherwise.     |
 | `element`   | The current element, or value, in `myArray` being tested.              |
-| `index`[^1] | The position that the current element is located in `myArray`.         |
-| `array`[^2] | The array that the `some()` method owas used on (in this case, `myArray`).|
-| `thisArg`[^3] | Used as the `this` value when calling the `callbackFunction`. Defaults to undefined when not used.                                                               |
-[^1]: optional parameter. 
-[^2]: optional parameter. 
-[^3]: optional parameter.
+| `index`     | (optional parameter) The position that the current element is located in `myArray`.         |
+| `array`     | (optional parameter) The array that the `some()` method owas used on (in this case, `myArray`).|
+| `thisArg`   | (optional parameter) Used as the `this` value when calling the `callbackFunction`. Defaults to undefined when not used.                                                               |
+
 
