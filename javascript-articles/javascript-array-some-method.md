@@ -6,3 +6,8 @@ The syntax for the `some()` method is as follows:
 
 ![Syntax of the Javascript some method](./images/javascript-img/some-method-syntax.svg)
 
+| Method part | Description                                                            |
+| ----------- | ---------------------------------------------------------------------- |
+| `myArray`   | is the array whose elements are being tested by the callback function  |
+| `.some()`   | is the method used to apply the callback function to the `myArray` array |
+| `callbackFunction` | is the function that is tested on each element of `myArray`. It should return `true` if an element passes the `callbackFunction` test, `false` otherwise. |
