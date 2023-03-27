@@ -8,7 +8,9 @@ The syntax for the `some()` method is as follows:
 <figcaption>
     Figure 1: Syntax of the Javascript <code>some()</code> method
 </figcaption>
-  
+
+
+
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
 | `myArray`   | The array whose elements are being tested by the callback function.    |
