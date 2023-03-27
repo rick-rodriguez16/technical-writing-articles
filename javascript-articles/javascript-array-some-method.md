@@ -11,7 +11,6 @@ The syntax for the `some()` method is as follows:
 ![Syntax of the Javascript some() method](./images/javascript-img/some-method-syntax.svg)
 *Figure 1: Syntax of the Javascript `some()` method*
 
-<p></p>
 
 
 | Method part | Description                                                            |
