@@ -17,6 +17,6 @@ The syntax for the `some()` method is as follows:
 | `thisArg`   | *(optional)* Used as the `this` value when calling the `callbackFunction`. Defaults to undefined when not used. |
 
 <figcaption>
-    Table 1: Breakdown of the parts used in the execution of the .some() method. Parts are required unless noted with *optional*.
+    Table 1: Breakdown of the parts used in the execution of the .some() method. Parts are required unless noted as optional.
 </figcaption>
 
