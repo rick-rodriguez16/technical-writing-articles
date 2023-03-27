@@ -15,4 +15,5 @@ The syntax for the `some()` method is as follows:
 | `index`     | *(optional)* The position that the current element is located in `myArray`. |
 | `array`     | *(optional)* The array that the `some()` method owas used on (in this case, `myArray`).|
 | `thisArg`   | *(optional)* Used as the `this` value when calling the `callbackFunction`. Defaults to undefined when not used. |
+
 ![Table 1: Breakdown of the parts used in the execute of the .some() method. Parts are required unless noted as optional.]
