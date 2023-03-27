@@ -21,6 +21,7 @@ The syntax for the `some()` method is as follows:
 </figcaption>
 
 <p></p>
+<p></p>
 
 ## What does the `some()` method return?
 
