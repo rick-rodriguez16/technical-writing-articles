@@ -26,7 +26,6 @@ The syntax for the `some()` method is as follows:
 The `some()` method should return true at the first instance an element meets the conditions of the `callbackFunction`, regardless of where in the array that element is indexed.   For example, if the first element in an array of 100 elements meets the condition of its `callbackFunction`, the `some()` method stops checking and immediately returns a value of true. It will not need to check the rest of the array because the condition has been satisfied.
 
 ![The some method returning a value of true](./images/javascript-img/some-method-returning-true.svg)
-
 <span style="margin: 0;"><i>Figure 2: The <code>some()</code> method returning a value of true the moment an element meets the condition of the callbackFunction<i></span>
 
 
