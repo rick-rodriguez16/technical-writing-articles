@@ -9,7 +9,7 @@ The syntax for the `some()` method is as follows:
     Figure 1: Syntax of the Javascript <code>some()</code> method
 </figcaption>
 
-
+  
 
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
