@@ -15,5 +15,5 @@ The syntax for the `some()` method is as follows:
 | `index`[^1] | The position that the current element is located in `myArray`.         |
 | `array`[^1] | The array that the `some()` method owas used on (in this case, `myArray`).|
 | `thisArg`[^1] | Used as the `this` value when calling the `callbackFunction`. Defaults to undefined when not used.                                                               |
-[^1]: optional parameter
+[^1]: optional parameter.
 
