@@ -19,7 +19,9 @@ The syntax for the `some()` method is as follows:
 <figcaption>
     Table 1: Breakdown of the parts used in the execution of the <code>.some()</code> method. Parts are required unless noted as <i>optional</i>.
 </figcaption>
+
 <p></p>
+
 ## What does the `some()` method return?
 
 The `some()` method should return true at the first instance an element meets the conditions of the `callbackFunction`, regardless of where in the array that element is indexed.   For example, if the first element in an array of 100 elements meets the condition of its `callbackFunction`, the `some()` method stops checking and immediately returns a value of true. It will not need to check the rest of the array becuase the condition has been satisfied.
