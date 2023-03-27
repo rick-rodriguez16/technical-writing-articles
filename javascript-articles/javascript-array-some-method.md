@@ -20,8 +20,8 @@ The syntax for the `some()` method is as follows:
     Table 1: Breakdown of the parts used in the execution of the <code>.some()</code> method. Parts are required unless noted as <i>optional</i>.
 </figcaption>
 
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 
 ## What does the `some()` method return?
 
