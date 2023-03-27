@@ -12,6 +12,7 @@ The syntax for the `some()` method is as follows:
 <p></p>
 
 <p></p>
+
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
 | `myArray`   | The array whose elements are being tested by the callback function.    |
