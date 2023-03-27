@@ -12,7 +12,8 @@ The syntax for the `some()` method is as follows:
 *Figure 1: Syntax of the Javascript `some()` method*
 
 <p></p>
-  
+
+
 | Method part | Description                                                            |
 | ----------- | ---------------------------------------------------------------------- |
 | `myArray`   | The array whose elements are being tested by the callback function.    |
