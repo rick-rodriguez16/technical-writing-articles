@@ -57,5 +57,5 @@ You can apply a named function as a parameter to the `some()` method.  In the ex
 
 *Figure 5: Testing an array using the `some()` method with an anonymous callback function.*
 
-### `some()` method when applied to sparse arrays
+### Applying `some()` to sparse arrays
 
