@@ -56,3 +56,6 @@ You can apply a named function as a parameter to the `some()` method.  In the ex
 ![Testing an array using the some method with an anonymous callback function](./images/javascript-img/some-anon-function.svg)
 
 *Figure 5: Testing an array using the `some()` method with an anonymous callback function.*
+
+### `some()` method when applied to sparse arrays
+
