@@ -43,8 +43,6 @@ If, however, every element in an array is checked and none of them pass the cond
 
 ## Applications
 
-The following are ways to apply the `some()` method.
-
 ### Using a named function as a callback
 
 You can apply a named function as a parameter to the `some()` method:
