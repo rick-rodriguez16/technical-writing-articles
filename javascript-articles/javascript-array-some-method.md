@@ -53,3 +53,6 @@ You can apply a named function as a parameter to the `some()` method.  In the ex
 
 ### Using an anonymous arrow function as a callback
 
+![Testing an array using the some method with an anonymous callback function](./images/javascript-img/some-anon-function.svg)
+
+*Figure 5: Testing an array using the `some()` method with an anonymous callback function.*
