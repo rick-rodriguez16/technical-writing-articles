@@ -32,14 +32,23 @@ The `some()` method should return true at the first instance an element meets th
 
 ![The some method returning a value of true](./images/javascript-img/some-method-returning-true.svg)
 
-*Figure 2: The `some()` method returning a value of true the moment an element meets the condition of the `callbackFunction`*
+*Figure 2: The `some()` method returning a value of true the moment an element meets the condition of the `callbackFunction`.*
 
 
 If, however, every element in an array is checked and none of them pass the condition of the `callbackFunction`, the `some()` method will return false.
 
 ![The some method returning a value of false](./images/javascript-img/some-method-returning-false.svg)
 
-*Figure 3: The `some()` method returning a value of false after all elements have failed the condition of the `callbackFunction`*
+*Figure 3: The `some()` method returning a value of false after all elements have failed the condition of the `callbackFunction`.*
 
 ## Applications
 
+The following are ways to apply the `some()` method.
+
+### Using a named function as a callback
+
+You can apply a named function as a parameter to the `some()` method:
+
+![Testing an array using the some method with a named callback function](./images/javascript-img/some-named-callback.svg)
+
+*Figfure 4: Testing an array using the `some()` method with a named callback function.*
