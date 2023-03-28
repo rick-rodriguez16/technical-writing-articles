@@ -45,8 +45,11 @@ If, however, every element in an array is checked and none of them pass the cond
 
 ### Using a named function as a callback
 
-You can apply a named function as a parameter to the `some()` method:
+You can apply a named function as a parameter to the `some()` method.  In the example below, the function `isEqualToFive` is applied as the callback function to `testArray1.some()` call.
 
 ![Testing an array using the some method with a named callback function](./images/javascript-img/some-named-callback.svg)
 
-*Figfure 4: Testing an array using the `some()` method with a named callback function.*
+*Figure 4: Testing an array using the `some()` method with a named callback function.*
+
+### Using an anonymous arrow function as a callback
+
