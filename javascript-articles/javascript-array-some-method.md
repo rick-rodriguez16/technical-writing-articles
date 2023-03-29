@@ -57,13 +57,19 @@ You can apply a named function as an argument to the `some()` method.  In the ex
 
 #### Using an anonymous function as a callback
 
-Anonymous functions can be used in lieu of named function 
+Anonymous functions can be used in lieu of named function. This is useful if the function is used as an argument only once.  Here, an anonymous callback function is used to determine if `testArray2` has an element that is of type `string`.
+
+![Testing an array using the some method with an anonymous function as a callback function](./images/javascript-img/some-anon-function.svg)
+
+*Figure 5: Testing an array using the `some()` method with an anonymous function as a callback function.*
 
 #### Using an anonymous arrow function as a callback
 
-![Testing an array using the some method with an anonymous callback function](./images/javascript-img/some-anon-function.svg)
+Arrow functions can also be used as an argument to the `some()` method. Here we apply the same condition to `testArray2` as above, except an arrow function is used as a callback function.
 
-*Figure 6: Testing an array using the `some()` method with an anonymous callback function.*
+![Testing an array using the some method with an anonymous arrow function as a callback function](./images/javascript-img/some-arrow-function.svg)
+
+*Figure 6: Testing an array using the `some()` method with an anonymous arrow function as a callback function.*
 
 ### Applying `some()` to sparse arrays
 
