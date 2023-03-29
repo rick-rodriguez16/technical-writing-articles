@@ -77,4 +77,4 @@ The `some()` method will not execute its callback function on empty indices in a
 
 ![In sparse array elements, when the index is empty, the some method will not treat it as undefined](./images/javascript-img/some-sparse-undefined.svg)
 
-*Figure 7: In sparse array elements, when the index is empty, the `some()` method will not treat it as undefined*
+*Figure 7: In sparse array elements, when the index is empty, the `some()` method will not treat it as undefined.*
