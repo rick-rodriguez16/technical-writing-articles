@@ -4,7 +4,7 @@ The `some()` method in Javascript is used to determine if there exists at least 
 
 ## Key details of the `some()` method
 
-The `some()` method is one of the many iterative methods of the Javascript Array class.  That is, the `some()` method takes a callback function and applies it to each element in an array in consecutive order. The return value of the callback function is what determines the outcome of `some()` method, either `true` or `false`.  The `some()` method does not directly change (mutate) the element values of the array that is used with it.  However, the callback function can do so.
+The `some()` method is one of the many iterative methods of the Javascript Array class.  That is, the `some()` method takes a callback function and applies it to each element in an array in consecutive order. The return value of the callback function is what determines the outcome of the `some()` method, either `true` or `false`.  The `some()` method does not directly change (mutate) the element values of the array that is used with it.  However, the callback function can do so.
 
 The syntax for the `some()` method is as follows:
 
