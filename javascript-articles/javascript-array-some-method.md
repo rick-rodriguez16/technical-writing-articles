@@ -84,3 +84,9 @@ Not only will `some()` not treat empty indices as undefined, it won't test them 
 ![The some method skips over empty indices entirely, not testing for them](./images/javascript-img/some-sparse-skipped.svg)
 
 *Figure 8: `some()` skips over empty indices entirely, not testing for them.*
+
+On the contrary, any index whose element's value is `undefined` will get tested by `some()`. For example, modifying `testArray4` by adding `undefined` at index 2 will now result in an output of `true`.
+
+![The some method will test an index when it element's value is undefined](./images/javascript-img/some-using-undefined.svg)
+
+*Figure 9: `some()` will test an element with a value of undefined.*
