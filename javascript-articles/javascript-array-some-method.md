@@ -45,21 +45,25 @@ If, however, every element in an array is checked and none of them pass the cond
 
 ### Callback functions
 
-Just like other Javascript Array methods, the `some()` method can use both named and anonymous functions to execute some process for each element in an array.
+Just like other Javascript Array methods, the `some()` method can use both named and anonymous functions as an argument.  This is because functions are considered ![First-class objects](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). These functions will then execute some process to each element in an array. The functions will then return a value of `true` or `false`.  
 
 #### Using a named function as a callback
 
-You can apply a named function as a parameter to the `some()` method.  In the example below, the function `isEqualToFive` is applied as the callback function parameter to the `testArray1.some()` call.
+You can apply a named function as a parameter to the `some()` method.  In the example below, the function named `isEqualToFive` is applied as the callback function parameter to the `testArray1.some()` call.
 
 ![Testing an array using the some method with a named callback function](./images/javascript-img/some-named-callback.svg)
 
 *Figure 4: Testing an array using the `some()` method with a named callback function.*
 
+#### Using an anonymous function as a callback
+
+Anonymous functions can be used in lieu of named function 
+
 #### Using an anonymous arrow function as a callback
 
 ![Testing an array using the some method with an anonymous callback function](./images/javascript-img/some-anon-function.svg)
 
-*Figure 5: Testing an array using the `some()` method with an anonymous callback function.*
+*Figure 6: Testing an array using the `some()` method with an anonymous callback function.*
 
 ### Applying `some()` to sparse arrays
 
