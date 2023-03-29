@@ -81,6 +81,6 @@ The `some()` method will not execute its callback function on empty indices in a
 
 Not only will `some()` not treat empty indices as undefined, it won't test them at all.  In Figure 8, `some()` uses a callback function to test for any element that is not equal to 5. `testArray4` is empty at index 2.  When `some()` reaches index 2, it does not test for it.  Rather, it skips the index and returns `false`.
 
-![The some method skips over empty indices entirely, not testing for them]()
+![The some method skips over empty indices entirely, not testing for them](./images/javascript-img/some-sparse-skipped.svg)
 
 *Figure 8: `some()` skips over empty indices entirely, not testing for them.*
