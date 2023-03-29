@@ -73,7 +73,7 @@ Arrow functions can also be used as an argument to the `some()` method. Here we 
 
 ### Applying `some()` to sparse arrays
 
-The `some()` method will not execute its callback function on empty indices in an array.  These are called sparse arrays. `some()` will not even treat them as undefined. For example, the array in Figure 7 is missing an element at index 1. The callback function tests to determine if there are any elements that are undefined.  Since index 1 is empty, `some()` will not test to determine if it is undefined:
+The `some()` method will not execute its callback function on empty indices in an array.  These are called sparse arrays. `some()` will not even treat them as undefined. For example, the array in Figure 7 is missing an element at index 1. The callback function tests to determine if there are any elements that are undefined.  Since index 1 is empty, `some()` will not test it to determine if it is undefined:
 
 ![In sparse array elements, when the index is empty, the some method will not treat it as undefined](./images/javascript-img/some-sparse-undefined.svg)
 
