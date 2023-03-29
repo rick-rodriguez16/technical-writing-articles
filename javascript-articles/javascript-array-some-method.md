@@ -49,7 +49,7 @@ Just like other Javascript Array methods, the `some()` method can use both named
 
 #### Using a named function as a callback
 
-You can apply a named function as a parameter to the `some()` method.  In the example below, the function named `isEqualToFive` is applied as the callback function parameter to the `testArray1.some()` call.
+You can apply a named function as an argument to the `some()` method.  In the example below, the function named `isEqualToFive` is applied as the callback function parameter to the `testArray1.some()` call.
 
 ![Testing an array using the some method with a named callback function](./images/javascript-img/some-named-callback.svg)
 
