@@ -45,7 +45,7 @@ If, however, every element in an array is checked and none of them pass the cond
 
 ### Callback functions
 
-Just like other Javascript Array methods, the `some()` method can use both named and anonymous functions as an argument.  This is because functions are considered [first-class objects](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). These functions will then execute some process to each element in an array. The functions will then return a value of `true` or `false`.  
+Just like other Javascript Array methods, the `some()` method can use both named and anonymous functions as an argument.  This is because functions are considered [first-class objects](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). These functions will execute some process to each element in an array. The result of this processing will return a value of `true` or `false`.  
 
 #### Using a named function as a callback
 
